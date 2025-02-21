@@ -1,6 +1,5 @@
 
 
-```markdown
 # JSON 文本提取器
 
 ## 项目概述
@@ -41,4 +40,3 @@
 
 ## 许可证
 这个项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)，你可以自由使用、修改和分发这个项目。
-```
